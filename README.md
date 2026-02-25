@@ -1,5 +1,6 @@
 # Apuntes-de-clase-U1
 
+## Temas teoricos de la unidad 1
 En este trabajo se presenta el desarrollo de una interfaz gráfica mediante Flet, un framework que facilita la creación de aplicaciones interactivas en Python de forma estructurada y compatible con múltiples plataformas. Durante el proceso se explicó cómo se diseña y organiza una interfaz gráfica, qué tipos de eventos permiten la interacción del usuario con la aplicación y de qué manera estos se gestionan a través de funciones que responden automáticamente a acciones como clics o modificaciones en campos de texto.
 Además, se estudiaron los distintos componentes de control empleados en los programas desarrollados —entre ellos formularios, calculadoras y un sistema de chat—. Estos ejemplos permitieron comprender cómo se estructuran los elementos visuales, cómo recopilan información del usuario y cómo se integran con la lógica del programa para crear aplicaciones dinámicas y funcionales.
 
